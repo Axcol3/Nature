@@ -58,9 +58,11 @@ body {
 .navigation__link {
     font-size: clamp(20px, 3vw, 25px);
     color: black;
+    transition: transform 0.2s ease-in-out,  color 0.2s ease-in-out;
 }
 .navigation__link:hover{
     color: #BF632F;
+    transform: scale(1.05);
 }
 .header__container {
     position: relative;
