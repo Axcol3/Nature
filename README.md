@@ -21,7 +21,7 @@ This is a responsive landing page dedicated to environmental protection and wild
  ### Screenshots:
  <div align="left">
 
-  <img src="images/phone.png" width="150" heigth="400" alt="Phone" style="vertical-align: ;bottom: 100px; " />
+  <img src="images/phone.png" width="150" heigth="400" alt="Phone" style="vertical-align: top ;margin-bottom: 800px; " />
    <img src="images/laptop.png" width="400" heigth="400" alt="Laptop" style="vertical-align: top; margin-right: 20px;"/>
     <img src="images/desktop.png" width="400" heigth="400" alt="Desktop" style="vertical-align: top; margin-right: 20px;"/>
    
