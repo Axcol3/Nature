@@ -22,8 +22,9 @@ This is a responsive landing page dedicated to environmental protection and wild
  <div align="left">
 
  <img src="images/phone.png" width="150" height="1300" alt="Phone" style="vertical-align: top;" />
+ <img src="images/desktop.png" width="400" height="1300" alt="Desktop" style="vertical-align: top; margin-right: 20px;" />
 <img src="images/laptop.png" width="400" height="1300" alt="Laptop" style="vertical-align: top; margin-right: 20px;" />
-<img src="images/desktop.png" width="400" height="1300" alt="Desktop" style="vertical-align: top; margin-right: 20px;" />
+
 
    
 </div>
@@ -72,9 +73,9 @@ This is a responsive landing page dedicated to environmental protection and wild
  ### Скриншоты:
  <div align="left">
 
-  <img src="Nature/images/phone.png" width="200" alt="Phone" style="vertical-align: top; " />
-    <img src="Nature/images/desktop.png" width="624" alt="Desktop" style="vertical-align: top; margin-right: 20px;"/>
-    <img src="Nature/images/laptop.png" width="624" alt="Laptop" style="vertical-align: top; margin-right: 20px;"/>
+ <img src="images/phone.png" width="150" height="1300" alt="Phone" style="vertical-align: top;" />
+ <img src="images/desktop.png" width="400" height="1300" alt="Desktop" style="vertical-align: top; margin-right: 20px;" />
+<img src="images/laptop.png" width="400" height="1300" alt="Laptop" style="vertical-align: top; margin-right: 20px;" />
 </div>
 
 1. Клонируй или скачай репозиторий
