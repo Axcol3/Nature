@@ -44,7 +44,6 @@ body {
     font-weight: 100;
     background: transparent;
     border: 1px solid #666;
-    color: black;
     padding: clamp(6px, 1vw, 12px) clamp(12px, 4vw, 24px);
     transition: 0.2s;
 }
