@@ -59,7 +59,9 @@ body {
     font-size: clamp(20px, 3vw, 25px);
     color: black;
 }
-
+.navigation__link:hover{
+    color: #BF632F;
+}
 .header__container {
     position: relative;
     width: 100%;
